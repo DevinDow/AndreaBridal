@@ -1,0 +1,124 @@
+﻿body 
+{
+    background-color: #CC99FF;
+    font-family: Pristina, Arial;
+    scrollbar-arrow-color: white;
+	scrollbar-base-color: white;
+	scrollbar-dark-shadow-color: silver;
+	scrollbar-track-color: silver;
+	scrollbar-face-color: white;
+	scrollbar-shadow-color: silver;
+	scrollbar-highlight-color: silver;
+	scrollbar-3d-light-color: silver;
+
+}
+
+
+A
+{
+	color: White;
+}
+
+#page
+{
+	margin: 20px;
+	width: 1200px;
+	height: 800px;
+}
+
+
+
+#header
+{
+	color: White;
+	width: 800px;
+	margin-bottom: 25px;
+}
+
+#logoBlock
+{
+	float: left;
+	margin-right: 20px; 
+}
+#logo
+{
+	border: solid 1px #9900CC;
+	height: 112px;
+	width: 104px;
+}
+
+#titleBlock
+{
+	float: left;
+}
+#name
+{
+	font-size:  45px;
+}
+#location
+{
+	font-size: 24px;
+}
+#contact
+{
+	font-size: 17px;	
+}
+#contact A
+{
+	color: #9900CC;
+}
+
+
+
+#main
+{
+	margin-top: 25px;
+}
+
+
+#nav
+{
+	float: left;
+	color: White;
+	font-size: 30px;
+	margin-right: 30px;
+}
+
+
+#content
+{
+	float: left;
+	color: #9900CC;
+	text-align: center;
+	font-family: Arial;
+	overflow:  auto;
+	width: 900px;
+}
+
+.heading
+{
+	font-family: Pristina;
+	font-size: 30px;
+}
+.form
+{
+	font-family: Arial;
+	font-size: 15px;
+}
+
+#footer
+{
+	margin-top: 25px;
+	background-color: White;
+}
+#footer A
+{
+	color: #9900CC;
+}
+#design
+{
+	font-size: 15px; 
+	text-align: center;
+	color: #9900CC;
+	vertical-align: bottom;
+}
